@@ -1,5 +1,5 @@
 Hi! I'm James.
-I'm a passionate backend software engineer.
+I'm a passionate embedded software engineer.
 
 Below are a few of the things I'm enthusiastic about (in no particular order)...
 
