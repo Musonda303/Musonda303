@@ -7,7 +7,7 @@ Learning new things
 Embedded Systems
 Programming Languages (Embedded C, C++, Python)
 Microcontrollers
-Troubleshooting
+Debugging
 Field Programmable Gate Arrays
 Hardware Description Languages (VHDL)
 Arduino
